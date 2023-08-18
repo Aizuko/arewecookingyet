@@ -1,0 +1,12 @@
+name: food name
+category: null
+tried: no
+how_good: null
+source: null
+ingredients:
+  - ingredient 1
+  - ingredient 2
+directions:
+  1: Step 1
+  2: Step 2
+notes: null
