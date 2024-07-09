@@ -1,0 +1,32 @@
+name: Chicago-style Stuffed Pizza
+category: baking
+tried: yes
+how_good: awesome
+source: Claude Sonnet 3.5
+ingredients:
+  - 2 cups flour
+  - 1 tsp sugar
+  - 8g traditional yeast
+  - 3/4 cup warm water
+  - 350g firm tofu
+  - 2 cups chopped mushrooms
+  - 1 onion (yellow, but any will work)
+  - 1 cup diced marbled cheese
+  - 2 tbsp hot chilli powder (optional)
+  - 1 egg (optional)
+directions:
+  1: Mix flour, sugar, warm water and yeast in a bowl
+  2: Knead the dough, then set aside dough to rise for 1h
+  3: About 30mins after the dough has started to rise, finely dice tofu
+  4: Fry the tofu until golden brown, then add finely chopped mushrooms
+  5: Preheat oven to 425F
+  6: Steam until water content is low, then mix in chopped onions and turn off heat
+  7: Grease 7x11" glass tray
+  8: Split dough into 2/3 and 1/3 pieces and roll out both pieces to 7x11"
+  9: Press 2/3 of dough around the bottom and sides of 7x11" glass tray
+  10: Rapidly mix in cheese and chilli powder into the wok, then pour into the crust
+  11: Seal the top with the remaining 1/3 of dough and spread egg on top
+  12: Bake at 425F for 25mins
+notes: >
+  I don't like to caramelize my onions, prefering the sharper raw texture.
+  Otherwise, sautee the onions before step 4.
